@@ -1,5 +1,6 @@
 # depslib dependency file v1.0
-1608222756 source:c:\users\andre\desktop\cursuri\!inplus\adventofcode\adventofcode2020\problema2\main.c
+1608234548 source:c:\users\andre\desktop\cursuri\!inplus\adventofcode\adventofcode2020\problema2\main.c
 	<stdio.h>
 	<stdlib.h>
+	<string.h>
 
